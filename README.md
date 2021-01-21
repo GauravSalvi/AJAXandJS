@@ -1,1 +1,1 @@
-# AJAXand-JS
+# AJAXandJS
